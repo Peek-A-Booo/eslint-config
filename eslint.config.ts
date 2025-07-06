@@ -7,6 +7,7 @@ export default antfu(
     },
     react: true,
     solid: true,
+    nextjs: true,
     svelte: true,
     astro: true,
     typescript: true,
